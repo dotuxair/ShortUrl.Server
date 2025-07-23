@@ -1,4 +1,3 @@
-using Scalar.AspNetCore;
 
 namespace ShortUrl.Server
 {
