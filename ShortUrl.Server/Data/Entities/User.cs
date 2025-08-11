@@ -1,6 +1,6 @@
 ﻿namespace ShortUrl.Server.Data.Entities
 {
-    public class User : BaseEntity
+    public class User : BaseEntity   // looking for Asp .Net Identity implementation docs
     {
         public Guid Id { get; set; }
         public string Email { get; set; } = string.Empty;
