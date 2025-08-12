@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /.idea/.idea.ShortUrl.Server/.idea
 ShortUrl.Server/.vscode/settings.json
+ShortUrl.Server/Data/Migrations
